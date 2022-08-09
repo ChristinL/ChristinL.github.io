@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "ChristinLampkowski/ Academic CV"
 title_separator          : "-"
-name                     : &name "ChristinL"
-description              : &description "This is a test site for Jekyll"
+name                     : &name "Test Jekyll Site"
+description              : &description "This is still a test site for Jekyll"
 url                      : https://christinl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "christinl/christinl.github.io"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Christin Lampkowski"
+  avatar           : "foo-bar-identity.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
