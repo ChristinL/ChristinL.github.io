@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Chrisitn Lampkowski"
+  avatar           : "CL_headshot_photo.JPG"
+  bio              : "Emerging Technologies Libarian"
+  location         : "UNC Charlotte"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "christinl"
   google_plus      :
   keybase          :
   instagram        :
@@ -177,7 +177,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  presentations:
     output: true
     permalink: /:collection/:path/
 
@@ -229,12 +229,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _presentations
   - scope:
       path: ""
-      type: talks
+      type: presentations
     values:
-      layout: talk
+      layout: presentations
       author_profile: true
       share: true
 
